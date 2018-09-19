@@ -1,4 +1,3 @@
-<script type="text/javascript">
     var sLocation = document.referrer.toLocaleLowerCase();
     //Links to boost
 	var rDomains = ["http://www.WEBSITEURL.com","http://www.ANOTHERWEBSITEURL.com"];
@@ -46,5 +45,3 @@
         var divid = document.getElementById("div" + iframeID);
         divid.appendChild(domiframe);
     }
-
-</script>
